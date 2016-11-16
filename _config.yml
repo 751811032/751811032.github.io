@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: RainWang
 subtitle:
-description:
+description: Love you so much keo
 author: Rain Wang
 language: zh-Hans
 timezone:
@@ -70,3 +70,4 @@ theme: next
 deploy:
   type: git
   repository: http://github.com/751811032/751811032.github.io.git
+  branch: master
